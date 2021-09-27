@@ -53,6 +53,7 @@ public class Map {
     }
 
 
+
     void output(Room roomStatus){
         Location loc = new Location();
         String s;
